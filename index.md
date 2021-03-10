@@ -3,7 +3,7 @@
 This site will host assignments for EPPS 6323.
 
 ### About Me
-[CV](/hdemarestResume.pdf)
+[CV](/TempResume.pdf)
 
 ### Assignments
 [Assignment 1](/Assignment_1.md)
